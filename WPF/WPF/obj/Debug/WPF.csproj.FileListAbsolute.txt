@@ -1,0 +1,16 @@
+F:\Val\Informatica\GIT\WPF\WPF\WPF\bin\Debug\Assignment5.exe.config
+F:\Val\Informatica\GIT\WPF\WPF\WPF\bin\Debug\Assignment5.exe
+F:\Val\Informatica\GIT\WPF\WPF\WPF\bin\Debug\Assignment5.pdb
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\WPF.csprojAssemblyReference.cache
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\View\AddNewItemWindow.g.cs
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\View\MainWindow.g.cs
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\App.g.cs
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5_MarkupCompile.cache
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5_MarkupCompile.lref
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\View\AddNewItemWindow.baml
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\View\MainWindow.baml
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5.g.resources
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5.Properties.Resources.resources
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5.exe
+F:\Val\Informatica\GIT\WPF\WPF\WPF\obj\Debug\Assignment5.pdb
